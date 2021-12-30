@@ -15,7 +15,7 @@ class TODO extends React.Component{
     render(){
         return(
 <div>
-    <h1>TODO APPLICATION</h1>
+    <h1>TEST APPLICATION</h1>
     <form>
         <label htmlFor='id'>Input Items</label>
         <label>{this.state.text}</label><br/>
